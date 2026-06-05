@@ -7,7 +7,7 @@
 
 ## What is Broken
 
-The IRCTC Tatkal booking system becomes extremely slow or completely unresponsive when Tatkal booking opens at 10:00 AM. Users experience page freezes, server errors, session timeouts, CAPTCHA resets, delayed OTP delivery, and failed bookings. The platform provides little to no feedback about whether a booking request is being processed, queued, or has failed.
+The IRCTC Tatkal booking system becomes extremely slow and completely unresponsive when Tatkal booking opens at 10:00 AM. Users experience page freezes, server errors, session timeouts, CAPTCHA resets, delayed OTP delivery, and failed bookings. The platform provides little to no feedback about whether a booking request is being processed, queued, or has failed.
 
 This creates panic among users because Tatkal tickets are limited and often sell out within minutes. Users repeatedly click buttons or refresh pages, increasing server load and worsening the problem.
 
